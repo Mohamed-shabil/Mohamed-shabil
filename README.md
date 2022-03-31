@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Mohamed-shabil
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Mohamed-shabil/Mohamed-shabil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👨‍🎓 I’m doing my under Graduation in Coputer Science
+- 👨‍💻 I’m currently learning Web Development
+- 👩‍🔧 I’m working as a intern Front-end developer at Youth india Foundation
+- 📱 Reach me <mohamedshabil231@gmail.com>
